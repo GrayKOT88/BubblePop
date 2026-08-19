@@ -36,7 +36,7 @@
 
 ## 🖼 Скриншоты
 
-![Геймплей](Screenshots/Screenshot2.jpg)
+![Геймплей](Bubbles/Assets/Screenshots/Screenshot2.jpg)
 *Основной игровой процесс*
 
 ![Интерфейс и счет](Bubbles/Assets/Screenshots/Screenshot1.jpg)
