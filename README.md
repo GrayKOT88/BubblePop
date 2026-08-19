@@ -47,10 +47,10 @@
 
 ## 🖼 Скриншоты
 
-![Геймплей](Assets/Screenshots/Screenshot2.jpg)
+![Геймплей](Assets/Screenshots/gameplay.jfif)
 *Основной игровой процесс*
 
-![Интерфейс и счет](Assets/Screenshots/Screenshot1.jpg)
+![Интерфейс и счет](Assets/Screenshots/ui.jfif)
 *Интерфейс*
 
 ---
