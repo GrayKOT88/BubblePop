@@ -32,14 +32,14 @@
 1.  Убедитесь, что установлен Unity Hub и редактор Unity версии **2021.3 LTS** или выше.
 2.  Клонируйте репозиторий.
 3.  Откройте проект через Unity Hub, выбрав папку `Bubbles`.
-4.  Откройте сцену `Scenes/MainGame.unity` и нажмите кнопку (Slow/Medium/Fast).
+4.  Откройте сцену `Scenes/MainGame.unity` и нажмите кнопку Play в Unity Editor.
 
 ## 🖼 Скриншоты
 
-![Геймплей](Screenshots/screenshot2.jpg)
+![Геймплей](Screenshots/Screenshot2.jpg)
 *Основной игровой процесс*
 
-![Интерфейс и счет](Screenshots/screenshot1.jpg)
+![Интерфейс и счет](Screenshots/Screenshot1.jpg)
 *Интерфейс*
 
 ---
