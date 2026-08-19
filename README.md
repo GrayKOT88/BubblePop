@@ -39,7 +39,7 @@
 ![Геймплей](Screenshots/Screenshot2.jpg)
 *Основной игровой процесс*
 
-![Интерфейс и счет](Screenshots/Screenshot1.jpg)
+![Интерфейс и счет](Bubbles/Assets/Screenshots/Screenshot1.jpg)
 *Интерфейс*
 
 ---
