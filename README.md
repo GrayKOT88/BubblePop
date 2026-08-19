@@ -31,15 +31,15 @@
 
 1.  Убедитесь, что установлен Unity Hub и редактор Unity версии **2021.3 LTS** или выше.
 2.  Клонируйте репозиторий.
-3.  Откройте проект через Unity Hub, выбрав папку `Bubbles`.
+3.  Откройте проект через Unity Hub, выбрав папку `BubblePop`.
 4.  Откройте сцену `Scenes/MainGame.unity` и нажмите кнопку Play в Unity Editor.
 
 ## 🖼 Скриншоты
 
-![Геймплей](Bubbles/Assets/Screenshots/Screenshot2.jpg)
+![Геймплей](Assets/Screenshots/Screenshot2.jpg)
 *Основной игровой процесс*
 
-![Интерфейс и счет](Bubbles/Assets/Screenshots/Screenshot1.jpg)
+![Интерфейс и счет](Assets/Screenshots/Screenshot1.jpg)
 *Интерфейс*
 
 ---
